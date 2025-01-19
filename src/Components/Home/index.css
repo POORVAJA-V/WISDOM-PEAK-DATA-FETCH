@@ -24,7 +24,7 @@
     padding: 8px 12px;
     font-size: 1rem;
     border-radius: 5px;
-    border: 1.5px solid #5252527a;
+    border: 1.5px solid #f8e00a;
     width: 250px;
     transition: all 0.1s ease-in-out;
     margin-bottom: 10px;
@@ -42,7 +42,7 @@
     padding: 8px 12px;
     font-size: 1rem;
     border-radius: 5px;
-    border: 1.4px solid #0719a37a;
+    border: 1.4px solid #f8e00a;
     background-color: rgb(75, 75, 75);
     color:white;
     transition: all 0.1s ease-in-out;
