@@ -9,16 +9,75 @@ The  learning outcomes from this assignment include <br>understanding how to int
 1. Project Setup and Initialization
    Set up the project directory:<br>
 
-        =>  Create a new directory for your project and navigate into it.<br>
+        =>  Create a new directory for your project and navigate into it.
 
-        =>  Initialize a new React project using Create React App:<br>
+        =>  Initialize a new React project using Create React App:
 
-                     npx create-react-app user-directory<br>
+                     npx create-react-app user-directory
 
-        => Navigate into the project directory:<br>
+        => Navigate into the project directory:
                      cd user-directory<br>
 
    Install necessary dependencies:<br>
 
-        => React Router for navigation:<br>
-                 npm install react-router-dom<br>
+        => React Router for navigation:
+                 npm install react-router-dom
+
+2. Development Process
+
+     Home Page Setup:
+
+         Create a Home.js component.
+         Fetch the list of users from the API: https://jsonplaceholder.typicode.com/users
+         Display the users with their name, email, and city.
+         Implement a search bar to filter users by name.
+         Implement sorting functionality for the user list (A-Z, Z-A).
+         clicking on a user navigates to their detail page.
+
+    User Detail Page:
+
+         Create a UserDetail.js component.
+         Fetch and display full user details (name, email, phone, company name, website,city).
+         Include a "Go Back" button to return to the home page.
+
+   State Management:
+
+         using React Context API:
+               Set up a context provider to manage global state.
+               Use the context in your components to manage user data and application state.
+
+
+   Implement loading states while fetching data.
+
+           Handle any potential errors that may occur during the data fetching process.
+
+
+3. Styling and Design
+
+CSS Styling:
+
+   Add CSS styles to ensure the application is visually appealing.
+
+   Implement responsiveness to ensure the application works well on both mobile and desktop devices.
+
+
+Bonus Features:
+
+   Add pagination to the user list for better user experience on larger datasets.
+
+   Responsiveness
+
+
+ 4. Deployment
+
+    Deploying to Netlify/Vercel:
+
+       Initialize a Git repository and commit your code.
+
+       Push the repository to GitHub.
+
+    For Vercel:
+
+    Link your GitHub repository to your Vercel account.
+
+    Import the project and configure deployment settings.
