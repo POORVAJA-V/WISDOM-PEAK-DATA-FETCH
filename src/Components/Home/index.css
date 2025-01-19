@@ -61,7 +61,7 @@
     border-collapse: collapse;
     margin-top: 50px;
     box-shadow: 0 4px 6px rgba(247, 247, 13, 0.935);
-    border-color:#ffffff;
+    border-color:#f2d30d;
   }
   
   th, td {
@@ -69,7 +69,7 @@
     text-align: left;
     font-size: 1rem;
     color:#ffffff;
-    border: 1px solid #ffffff;
+    border: 1px solid #f8e00a;
   }
   
   th {
