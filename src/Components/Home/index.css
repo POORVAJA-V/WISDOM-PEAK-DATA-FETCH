@@ -11,6 +11,16 @@
   font-size:18px;
   font-weight:700;
 }
+.heading{
+  font-weight:900;
+  background-image:url('head-image.jpg');
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-align:center;
+  font-size:28px;
+  margin-bottom:20px;
+  font-style:italic;
+}
   .filter {
     display: flex;
     justify-content: space-between;

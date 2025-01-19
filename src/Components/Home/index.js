@@ -43,6 +43,7 @@ const UserList = () => {
 
   return (
     <div className="container ">
+    <h1 className="heading">USERS LIST</h1>
       <div className="filter">
         <input
           type="search"
