@@ -8,11 +8,17 @@ The  learning outcomes from this assignment include <br>understanding how to int
 
 1. Project Setup and Initialization
    Set up the project directory:<br>
+
         =>  Create a new directory for your project and navigate into it.<br>
+
         =>  Initialize a new React project using Create React App:<br>
+
                      npx create-react-app user-directory<br>
+
         => Navigate into the project directory:<br>
                      cd user-directory<br>
+
    Install necessary dependencies:<br>
+
         => React Router for navigation:<br>
                  npm install react-router-dom<br>
