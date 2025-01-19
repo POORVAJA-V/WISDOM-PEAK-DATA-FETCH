@@ -15,9 +15,9 @@ handling asynchronous data fetching with loading and error states,
 and implementing responsive design.
 
 
-### Step-by-Step Instructions
+### STEP- BY - STEP INSTRUCTIONS :
 
-1. Project Setup and Initialization
+### 1. PROJECT SETUP INSTRUCTIONS
   ### Set up the project directory:<br>
 
         =>  Create a new directory for your project and navigate into it.
@@ -34,7 +34,7 @@ and implementing responsive design.
         => React Router for navigation:
                  npm install react-router-dom
 
-### 2. Development Process
+### 2. DEVELOPEMENT PROCESS
 
    ### Home Page Setup:
 
@@ -63,7 +63,7 @@ and implementing responsive design.
            Handle any potential errors that may occur during the data fetching process.
 
 
-### 3. Styling and Design
+### 3. STYLING AND DESIGNS
 
    ### CSS Styling:
 
@@ -79,7 +79,7 @@ and implementing responsive design.
    Responsiveness
 
 
-### 4. Deployment
+### 4. DEPLOYMENT
 
 ### Deploying to Netlify/Vercel:
 
