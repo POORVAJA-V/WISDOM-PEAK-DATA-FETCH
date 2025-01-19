@@ -7,7 +7,7 @@ The  learning outcomes from this assignment include <br>understanding how to int
 ### Step-by-Step Instructions
 
 1. Project Setup and Initialization
-   Set up the project directory:<br>
+  ### Set up the project directory:<br>
 
         =>  Create a new directory for your project and navigate into it.
 
@@ -18,14 +18,14 @@ The  learning outcomes from this assignment include <br>understanding how to int
         => Navigate into the project directory:
                      cd user-directory<br>
 
-   Install necessary dependencies:<br>
+   ### Install necessary dependencies:<br>
 
         => React Router for navigation:
                  npm install react-router-dom
 
 ### 2. Development Process
 
-   Home Page Setup:
+   ### Home Page Setup:
 
          Create a Home.js component.
          Fetch the list of users from the API: https://jsonplaceholder.typicode.com/users
@@ -34,20 +34,20 @@ The  learning outcomes from this assignment include <br>understanding how to int
          Implement sorting functionality for the user list (A-Z, Z-A).
          clicking on a user navigates to their detail page.
 
-   User Detail Page:
+  ### User Detail Page:
 
          Create a UserDetail.js component.
          Fetch and display full user details (name, email, phone, company name, website,city).
          Include a "Go Back" button to return to the home page.
 
-   State Management:
+   ### State Management:
 
          using React Context API:
                Set up a context provider to manage global state.
                Use the context in your components to manage user data and application state.
 
 
-   Implement loading states while fetching data.
+   ### Implement loading states while fetching data.
 
            Handle any potential errors that may occur during the data fetching process.
 
