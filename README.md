@@ -23,9 +23,9 @@ The  learning outcomes from this assignment include <br>understanding how to int
         => React Router for navigation:
                  npm install react-router-dom
 
-2. Development Process
+### 2. Development Process
 
-     Home Page Setup:
+   Home Page Setup:
 
          Create a Home.js component.
          Fetch the list of users from the API: https://jsonplaceholder.typicode.com/users
@@ -34,7 +34,7 @@ The  learning outcomes from this assignment include <br>understanding how to int
          Implement sorting functionality for the user list (A-Z, Z-A).
          clicking on a user navigates to their detail page.
 
-    User Detail Page:
+   User Detail Page:
 
          Create a UserDetail.js component.
          Fetch and display full user details (name, email, phone, company name, website,city).
@@ -52,32 +52,32 @@ The  learning outcomes from this assignment include <br>understanding how to int
            Handle any potential errors that may occur during the data fetching process.
 
 
-3. Styling and Design
+### 3. Styling and Design
 
-CSS Styling:
+   ### CSS Styling:
 
    Add CSS styles to ensure the application is visually appealing.
 
    Implement responsiveness to ensure the application works well on both mobile and desktop devices.
 
 
-Bonus Features:
+   ### Bonus Features:
 
    Add pagination to the user list for better user experience on larger datasets.
 
    Responsiveness
 
 
- 4. Deployment
+### 4. Deployment
 
-    Deploying to Netlify/Vercel:
+### Deploying to Netlify/Vercel:
 
-       Initialize a Git repository and commit your code.
+   Initialize a Git repository and commit your code.
 
-       Push the repository to GitHub.
+   Push the repository to GitHub.
 
-    For Vercel:
+### For Vercel:
 
-    Link your GitHub repository to your Vercel account.
+   Link your GitHub repository to your Vercel account.
 
-    Import the project and configure deployment settings.
+   Import the project and configure deployment settings.
