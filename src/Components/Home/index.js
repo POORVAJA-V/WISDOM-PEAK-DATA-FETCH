@@ -9,7 +9,7 @@ const UserList = () => {
   const [sortOrder, setSortOrder] = useState('asc');
   const [searchTerm, setSearchTerm] = useState(''); 
   const [currentPage, setCurrentPage] = useState(1); 
-  const itemsPerPage = 6;
+  const itemsPerPage = 5;
 
   useEffect(() => {
     fetch('https://jsonplaceholder.typicode.com/users')
