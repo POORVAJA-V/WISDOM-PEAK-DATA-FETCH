@@ -1,8 +1,19 @@
 ### OBJECTIVE
 
-The goal of this assignment is to create a functional React.js application that fetches and displays a list of users from an API.<br>
-The application is included with features for searching, filtering, and viewing detailed information about each user. <br>
-The  learning outcomes from this assignment include <br>understanding how to integrate APIs in a React application, <br>managing state using either React Context API or Redux,<br>handling asynchronous data fetching with loading and error states,<br>and implementing responsive design.
+The goal of this assignment is to create a functional React.js application that fetches and displays a list of users from an API.
+
+The application is included with features for searching, filtering, and viewing detailed information about each user.
+
+The  learning outcomes from this assignment include 
+
+understanding how to integrate APIs in a React application, 
+
+managing state using either React Context API or Redux,
+
+handling asynchronous data fetching with loading and error states,
+
+and implementing responsive design.
+
 
 ### Step-by-Step Instructions
 
