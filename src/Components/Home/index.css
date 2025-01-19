@@ -138,12 +138,14 @@
     .filter {
       flex-direction: column;
       justify-content: center;
+      margin-right: 20px;
     }
   
     .filter input,
     .filter select {
       width: 90%;
       margin-bottom: 15px;
+  
     }
   
     table {
@@ -174,9 +176,9 @@
   
     .filter input,
     .filter select {
-      width: 80%;
+      width: 90%;
       font-size: 0.9rem;
-      margin-right: 10px;
+      margin-right: 20px;
     }
   
     table {
