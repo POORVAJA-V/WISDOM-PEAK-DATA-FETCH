@@ -190,9 +190,14 @@
     .filter{
       margin-left:20px;
     }
-    .filter input,
-    .filter select {
-      width: 90%;
+    .filter input
+    {
+      width: 100%;
+      font-size: 0.9rem;
+      margin-right: 20px;
+    }
+    .filter select{
+      width:70%;
       font-size: 0.9rem;
       margin-right: 20px;
     }
@@ -216,7 +221,7 @@
       padding:10px;
     }
     .heading{
-      margin-left:5px;
+      margin-left:15px;
     }
   }
   
