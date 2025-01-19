@@ -174,17 +174,20 @@
   
     .filter input,
     .filter select {
-      width: 70%;
+      width: 90%;
       font-size: 0.9rem;
     }
   
     table {
       font-size: 0.6rem;
-      width:100%;
+      width:80%;
     }
   
     th, td {
-      padding: 6px;
+      padding-top: 7px;
+      padding-bottom:7px;
+      padding-right:4px;
+      padding-left:4px;
     }
   
     td a {
