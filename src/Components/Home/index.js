@@ -93,6 +93,7 @@ const UserList = () => {
               <td>{user.address.city}</td>
             </tr>
           ))}
+         
         </tbody>
       </table>
       <div className="pagination">
