@@ -179,19 +179,21 @@
     }
   
     table {
-      font-size: 0.6rem;
-      width:80%;
+      font-size: 0.4rem;
     }
   
     th, td {
-      padding-top: 7px;
-      padding-bottom:7px;
+      padding-top: 10px;
+      padding-bottom:10px;
       padding-right:4px;
       padding-left:4px;
     }
   
     td a {
       font-size: 0.9rem;
+    }
+    .subContainer{
+      padding:10px;
     }
   }
   
