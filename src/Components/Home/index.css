@@ -159,6 +159,8 @@
     .filter select {
       width: 90%;
       margin-bottom: 15px;
+      height:7vh;
+      font-size:18px;
   
     }
   
@@ -195,6 +197,8 @@
       width: 100%;
       font-size: 0.9rem;
       margin-right: 20px;
+      height:7vh;
+      font-size:16px;
     }
     .filter select{
       width:90%;
